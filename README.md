@@ -11,8 +11,8 @@ PULL_REQUEST_TEMPLATE
 # Tecnología
 
 - HTML
-- Json (X)
-- Archivo plano (.txt) [x]
+- Json [x]
+- Archivo plano (.txt)
 - Javascript
 - Markdown / .md
 
@@ -20,7 +20,7 @@ PULL_REQUEST_TEMPLATE
 
 - Feature
 - Changes (X)
-- Hotfix [x]
+- Hotfix
 - Refactor
 - Performance
 - Testing
